@@ -1,4 +1,4 @@
-# Daily-Expense-Tracker-
+# Daily Expense Tracker
 Python Programming Project
 
 Desktop app for tracking daily expenses, built with Tkinter and Matplotlib.
